@@ -1,10 +1,12 @@
 ﻿using System;
+using Xamarin.Forms;
+
 namespace calcTestApp
 {
-	public class MyCalcNumberButton
+	class MyCalcNumberButton : Button 
 	{
-		public MyCalcNumberButton()
-		{
-		}
+		public MyCalcNumberButton(){}
+		public int Number { get; set;}
+
 	}
 }

@@ -28,10 +28,14 @@ markdownの基本的な記述は下記を参照にしました。
 ### 数字ボタン配置！
 * １〜９のボタンを配置して、押したボタンの値を下に表示することに成功
 * GridLayoutなるものは下記リンクで勉強
-<http://dev.classmethod.jp/smartphone/xamarin-forms-layout/>
+<http://dev.classmethod.jp/smartphone/xamarin-forms-layout/>  
 <http://iscene.jimdo.com/2016/06/08/xamarin-froms-grid/>
 
 * Fontのサイズとかはここ
 <https://developer.xamarin.com/guides/xamarin-forms/user-interface/text/fonts/>
 
 * 次は演算処理かなあ
+
+
+### 演算ボタン作成！
+* 足し算、引き算、掛け算、割り算ができるようになりました。
